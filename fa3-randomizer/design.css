@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(111, 15, 15);
+    margin: 0px;
+}
+.title{
+    color: #e1be85;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#head{
+    margin-top: 20px;
+    font-size: 40px;
+    font-style: italic;
+    font: 'poppins';
+    text-shadow: 0 2px 1px white, 
+    -1px 3px 1px white, 
+    -2px 3px 1px white;
+;
+}
+.card-header{
+    color: rgb(111, 15, 15);
+    background-color: #e1be85;
+    letter-spacing: 2px;
+}
+.card-footer{
+    background-color: #e1be85;
+}
+.card-body{
+    display: inline-flex;
+}
+#click{
+    font-family: sans-serif;
+}
+#lel{
+    margin-top: 20px;
+    font-size: 17px;
+    color: rgb(111, 15, 15);
+    text-align: left;
+}
+#lol{
+    margin-top: 20px;
+    font-size: 17px;
+    color: rgb(111, 15, 15);
+    text-align: left;
+}
+#wew{
+    margin-top: 20px;
+    font-size: 17px;
+    color: rgb(111, 15, 15);
+    text-align: left;
+}
+#ticket{
+    margin-top: 20px;
+    font-size: 17px;
+    color: rgb(111, 15, 15);
+    text-align: left;
+}
+.btn{
+    color: rgb(111, 15, 15);
+    letter-spacing: 2px;
+}
+h1{
+    text-shadow: 0 2px 1px white, 
+    -1px 3px 1px white, 
+    -2px 3px 1px white;
+    text-align: center;
+    padding-left: 230px;
+    letter-spacing: 5px;
+    color: rgb(111, 15, 15);
+}
+#shesh{
+    background-image: linear-gradient(#e1be85, white, #dea242);
+    background-color: #e1be85;
+}
+
+
+
+
+
+
